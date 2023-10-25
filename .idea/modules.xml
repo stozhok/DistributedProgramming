@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/DistributedProgramming.iml" filepath="$PROJECT_DIR$/DistributedProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/a/a.iml" filepath="$PROJECT_DIR$/lab1/a/a.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/b/b.iml" filepath="$PROJECT_DIR$/lab1/b/b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.a/lab2.a.iml" filepath="$PROJECT_DIR$/lab2/lab2.a/lab2.a.iml" />
     </modules>
   </component>
 </project>
